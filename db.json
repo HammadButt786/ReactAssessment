@@ -1,0 +1,46 @@
+{
+  "records": [
+    {
+      "id": "RID-111",
+      "recruitmentName": "UI/UX Designer",
+      "startDate": "2022/08/12",
+      "status": "In Progress",
+      "candidatesNo": "23"
+    },
+    {
+      "id": "RID-122",
+      "recruitmentName": "UI/UX Designer",
+      "startDate": "2022/08/12",
+      "status": "In Progress",
+      "candidatesNo": "23"
+    },
+    {
+      "id": "RID-113",
+      "recruitmentName": "UI/UX Designer",
+      "startDate": "2022/08/12",
+      "status": "In Progress",
+      "candidatesNo": "23"
+    },
+    {
+      "id": "RID-112",
+      "recruitmentName": "UI/UX Designer",
+      "startDate": "2022/08/12",
+      "status": "In Progress",
+      "candidatesNo": "23"
+    },
+    {
+      "id": "RID-124",
+      "recruitmentName": "UI/UX Designer",
+      "startDate": "2022/08/12",
+      "status": "In Progress",
+      "candidatesNo": "23"
+    },
+    {
+      "id": "RID-115",
+      "recruitmentName": "UI/UX Designer",
+      "startDate": "2022/08/12",
+      "status": "In Progress",
+      "candidatesNo": "23"
+    }
+  ]
+}
